@@ -1,1 +1,1 @@
-# bootstrap_website
+# bootstrap_app
